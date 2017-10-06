@@ -9,4 +9,5 @@ def display_board
   print("-----------")
   print("\n")
   print("   |   |   ")
+  print("\n")
 end
